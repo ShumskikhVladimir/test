@@ -14,5 +14,8 @@ public class Main {
         old.getPosition();
         old.work();
         old.getPosition();
+        old.work();
+        old.getPosition();
+        old.work();
     }
 }
